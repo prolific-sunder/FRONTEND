@@ -1,0 +1,27 @@
+nav {
+    height: 10%;
+    width: 100%;
+    position: relative;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.menu-item {
+    padding: 2%;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    height: fit-content;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-social-link {
+    height: fit-content;
+}
